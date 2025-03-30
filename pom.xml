@@ -12,7 +12,7 @@
 	<groupId>com.mydeveloperplanet</groupId>
 	<artifactId>mywiremockaiplanet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MyWiremockAiPlanet</name>
+	<name>MyWireMockAiPlanet</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
