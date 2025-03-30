@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-p1731vusmgq3oh0xqnkay4",
+  "object": "chat.completion",
+  "created": 1743244125,
+  "model": "llama-3.2-1b-instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This works also!"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 24,
+    "completion_tokens": 36,
+    "total_tokens": 60
+  },
+  "system_fingerprint": "llama-3.2-1b-instruct"
+}
