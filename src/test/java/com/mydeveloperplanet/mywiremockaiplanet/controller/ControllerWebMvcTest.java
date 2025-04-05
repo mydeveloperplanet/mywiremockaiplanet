@@ -28,7 +28,7 @@ class ControllerWebMvcTest {
 
         mockMvc.perform(MockMvcRequestBuilders.get("/chat")
                         .param("message", "Tell me a joke")
-                            )
+                )
                 .andExpect(status().is2xxSuccessful())
                 .andExpect(content().string("This is a joke"));
     }
